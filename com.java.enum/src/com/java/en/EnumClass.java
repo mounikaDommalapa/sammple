@@ -1,7 +1,7 @@
 package com.java.en;
 
 enum Day{
-	MON,TUE,WD,THU,FRI,SAT,SUN
+	MON,TUE,WD,THU,FRI,SAT
 }
 public class EnumClass {
 
